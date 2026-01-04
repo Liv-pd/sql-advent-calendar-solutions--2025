@@ -1,9 +1,20 @@
-# SQL Advent Calendar 2025
+# SQL Advent Calendar Challenge – SQL Portfolio
 
-This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
+## Overview
+This repository contains my solutions to the 2025 Interview Master 24-Day SQL Advent Calendar.
+I completed this challenge to strengthen my SQL skills and answer questions that mimic real-world business cases, in a creatively festive way.
+
+## Skills Demonstrated
+- Multiple joins
+- Window functions
+- CTEs and subqueries
+- Data cleaning and transformation
+- Translating business questions into relevant, actionable data requirements
+
+## Key Learnings
+- Improved understanding of when to use CTEs vs subqueries
+- Stronger problem decomposition into logical SQL statements
 
 ## About the Challenge
-
-The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
-
+Hosted by Interview Master.
 Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
